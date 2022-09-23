@@ -14,7 +14,7 @@ Feel free to include any external libraries or dependencies that you believe wil
 
 The domain concerns movie rentals and customer statements.
 
-There are 3 existing classes:
+There are 3 existing classes: ... 
 
 - **`Movie`** is composed of a title - `name` - and a pricing code - `priceCode`.
 - **`Rental`** is composed of a `Movie` - `movie` - and a duration - `daysRented`.
