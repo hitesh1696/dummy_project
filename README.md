@@ -62,5 +62,3 @@ You earned 4 frequent renter points
 2. Include a rough estimate of how much time you spent working on the assignment.
 3. Also include any additional instructions / requirements for running your solution.
 
-
-deeepak_mandlik
